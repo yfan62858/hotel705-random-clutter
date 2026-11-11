@@ -1,0 +1,10 @@
+/assets/
+/scenes/
+__pycache__/
+*.pyc
+/status.txt
+/active_scene.txt
+/preview_result.json
+/controls_validation.json
+/generator_validation.json
+*.log

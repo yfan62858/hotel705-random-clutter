@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "assets/room7052/7052_ver3_0925.usda",
+      "bytes": 133563975,
+      "sha256": "b8ef82a956a2869364faddf488fa13664afec070bb3a3e8ca32ca1215259fee2"
+    },
+    {
+      "path": "assets/room7052/source/7052_ver2_fixed_balcony_glass.blend",
+      "bytes": 65813013,
+      "sha256": "11c9e3abd36fefd98d0be446ccd65c4691ece7b2c7b41c0ef3eb41cab1797c20"
+    },
+    {
+      "path": "assets/room7052/textures/0c8969a77a8f62254f4a32eabdb24694.jpg",
+      "bytes": 1194008,
+      "sha256": "4f549fdf3e61734cebbff2bd2ed17f02cd38a0647a86b0b37f3b9d7dec0adee5"
+    },
+    {
+      "path": "assets/room7052/textures/144d411053c582f5f60bf318f5a726c1.jpg",
+      "bytes": 1394492,
+      "sha256": "91ae52e21572ac3a248af64ed875cd50b3c203db0faf3c2ad8ea628d04a097a8"
+    },
+    {
+      "path": "assets/room7052/textures/45c987851c0cd56836c6da76882a43d0.jpg",
+      "bytes": 1201816,
+      "sha256": "7bce2132bc4b51cf65fae78298d136041b4e0caeaee90cb4b2656fbb4267f61f"
+    },
+    {
+      "path": "assets/room7052/textures/7052_Flat_Walnut_Counter_wood.png",
+      "bytes": 165299,
+      "sha256": "3072274af75c130add3e2d273beb6af30e2ea494e589864857886b846733bb65"
+    },
+    {
+      "path": "assets/room7052/textures/7c6efa05c65200ab9082bd2a051e7673.jpg",
+      "bytes": 1222296,
+      "sha256": "79dcfe693f06b25e24ee95eeabdd374895dfb3eb0c527948d2de584d423f67f4"
+    },
+    {
+      "path": "assets/room7052/textures/abstractwallart3dmodel_basecolor.JPEG",
+      "bytes": 4506593,
+      "sha256": "3ae49748e201513a07f2bb431a69f799277be1c1425e729733a5a414106d7e53"
+    },
+    {
+      "path": "assets/room7052/textures/armchair3dmodel_basecolor.JPEG",
+      "bytes": 5586402,
+      "sha256": "106b9c5956315dcc309f10525959484c539a0506913ff200ce1f1d98903ade0d"
+    },
+    {
+      "path": "assets/room7052/textures/bath_beige_large_tile.png",
+      "bytes": 299392,
+      "sha256": "22dd1f32455a0fc6424f2bd4c6b58768f882637f2445f903535946dc3c176bba"
+    },
+    {
+      "path": "assets/room7052/textures/bath_beige_speckled_stone.png",
+      "bytes": 814092,
+      "sha256": "6d71204a61ec78c812138b77719503013adfbd832a636a736e4a1d24990f3572"
+    },
+    {
+      "path": "assets/room7052/textures/bench_white_grey_marble.png",
+      "bytes": 835236,
+      "sha256": "d57eed6c961ee54537584b95c827a570e499be5d727a10b6933cf630e85ab8e3"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_0_basecolor.JPEG",
+      "bytes": 172177,
+      "sha256": "9a41ed4d969fcd1f840e9e03cc7bf12e9263f9da182d9c077c7438c09ec00fb4"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_12_basecolor.JPEG",
+      "bytes": 2646,
+      "sha256": "cb07dbdc16de9379bc4720d8e6bdea50f5304f9b58961bcb4abf7e99f5dc8537"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_13_basecolor.JPEG",
+      "bytes": 2618,
+      "sha256": "a3d04e9895a3e2b62bdfd2a24409a4eedb3fc1f6b363ac3d9bb2082ec3fdbc11"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_14_basecolor.JPEG",
+      "bytes": 4653,
+      "sha256": "1a7b9b719bbc5568cbed5abb481aaf4e2a4be57c299297092b1df9331ecc9dd5"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_15_basecolor.JPEG",
+      "bytes": 1973,
+      "sha256": "53a6bf7110b00b888492b9243d0ed65c1156aa5fdab4c851ca07384705703a70"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_16_basecolor.JPEG",
+      "bytes": 1018,
+      "sha256": "39abaca3689e6f22203c3f1a74ba5c8077588e256029989b289bef31669dc055"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_17_basecolor.JPEG",
+      "bytes": 869,
+      "sha256": "2d8ad2a61f6e8ac4d8616636fbbf425a977647c0a29919c2d325012b134c6c6c"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_18_basecolor.JPEG",
+      "bytes": 3422,
+      "sha256": "1cd6937f74c5a9f79ce7bca8b705ec2ea19fcb6f266d557fe630100a22b4e166"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_19_basecolor.JPEG",
+      "bytes": 920,
+      "sha256": "fb52dc924b71dbf40ee49ab4fd4e0c0666f0bf2aff7379e850adc86b37e96951"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_1_basecolor.JPEG",
+      "bytes": 149561,
+      "sha256": "f1c15cf347ab34585205113ead0ad0deaeb1365136e288ac8e718de24d8b99ea"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_20_basecolor.JPEG",
+      "bytes": 1041,
+      "sha256": "37d7771d7bdaf49edae1227008dc1bc5d20eaabfee01a69934919568fe980e2f"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_21_basecolor.JPEG",
+      "bytes": 1400,
+      "sha256": "ac7f7374d570fab07dda14ac0a2021adfd61bafffdb75e170fa15692d33d5631"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_22_basecolor.JPEG",
+      "bytes": 863,
+      "sha256": "f98dc4c21c14d98ca685e4b595b7f03d91d3ab0b083b4de25ea8e89b6ce05381"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_23_basecolor.JPEG",
+      "bytes": 1187,
+      "sha256": "d224aa16dcb52c62905a7e264b8cc15ebad6d64b1fb12ed1a7118e9b61d0b74f"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_25_basecolor.JPEG",
+      "bytes": 746,
+      "sha256": "a95bafc76f1e46f63dbccedf76977fd1b056090b713b65b1ea264cc803bbeea1"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_26_basecolor.JPEG",
+      "bytes": 799,
+      "sha256": "c7825ef2eaa2627178b3e3e28fd60283709932cb2d63d0d5204098c6bac9540f"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_2_basecolor.JPEG",
+      "bytes": 68715,
+      "sha256": "67e65329bc29023841848ba41cd970dd9e6c442fce42178e0605d178cd935f1f"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_4_basecolor.JPEG",
+      "bytes": 1984,
+      "sha256": "be2720348c01e52acac60a644ec2be8244fa1461693b93246e3fbc385ace0e02"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_5_basecolor.JPEG",
+      "bytes": 4408,
+      "sha256": "b6019b205db15526391150c1969619c50a7394f10645491a7a408a25035a11db"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_6_basecolor.JPEG",
+      "bytes": 51380,
+      "sha256": "6b5c439254c24bd585029be2b5b2a3edfcb8c4bc41ec311aebb596f6f23a34f0"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_7_basecolor.JPEG",
+      "bytes": 2212,
+      "sha256": "4be3afdf7f07def3cdfcd8440b6130c6591af15506e49bfcff7ce998a44cd807"
+    },
+    {
+      "path": "assets/room7052/textures/chromebathroomhinge3dmodel_tripo_part_9_basecolor.JPEG",
+      "bytes": 94341,
+      "sha256": "6c6db780e52070a617c2af004443ad8b6584648905a206dc2d9dd1bccfe7032c"
+    },
+    {
+      "path": "assets/room7052/textures/color_165165165.hdr",
+      "bytes": 109,
+      "sha256": "46872d0e369948ccf15b173ab6da6afdd6c6b31b5920096a0c153887b300f07c"
+    },
+    {
+      "path": "assets/room7052/textures/entry_door_ebony_stripe.png",
+      "bytes": 2890815,
+      "sha256": "0c5520f4232deffe022e262f71aa0407767f4b586ac90e45c13a29fc8236fee3"
+    },
+    {
+      "path": "assets/room7052/textures/grey_marble_nightstand.png",
+      "bytes": 1142518,
+      "sha256": "c392ea9dcf5bf464d6e9b6052f6095699d2fd7d3c4ac2e6e11e099447c02658c"
+    },
+    {
+      "path": "assets/room7052/textures/headboard_dark_wood.png",
+      "bytes": 514870,
+      "sha256": "591338eefdc1e3e9e3ea79b2be197692afcdf071ffe5f73bdc9e4e3a0c5b4c96"
+    },
+    {
+      "path": "assets/room7052/textures/hotel_satin_stripes.png",
+      "bytes": 1425,
+      "sha256": "25962fa27b3f8e529fcff8c44e4f2040078e40bc80f7ea7d8de8985ac52b2274"
+    },
+    {
+      "path": "assets/room7052/textures/reference_counter_marble.png",
+      "bytes": 488429,
+      "sha256": "2cf4f7cd1727c9c2dc50c36c55643613df5363023c8c445d41b75d821a45f33a"
+    },
+    {
+      "path": "assets/room7052/textures/shampoobottle3dmodel_basecolor.JPEG",
+      "bytes": 3958703,
+      "sha256": "82b082abbf02081e6bb81254381bec939d0333b8466af6f01e78332a2e67b628"
+    },
+    {
+      "path": "assets/room7052/textures/sofa_boucle_greige.png",
+      "bytes": 1980293,
+      "sha256": "766644b024c47b6e3b43759129d7e1607763f3bc9cf03b3306f521281cd50d95"
+    },
+    {
+      "path": "assets/room7052/textures/tv_tv_AlbedoTransparency.png",
+      "bytes": 441720,
+      "sha256": "433abaf188f8c21aa0cca490cd5c721eaa025a1e9c65f3dbc2370feb20b4a882"
+    },
+    {
+      "path": "assets/room7052/textures/vanity_black_granite.png",
+      "bytes": 713289,
+      "sha256": "5ea53fb564130bb17825155c8d83f879d1f2d51571f344d88619586f6bad3374"
+    },
+    {
+      "path": "assets/room7052/textures/WALL WHITE.jpg",
+      "bytes": 1486,
+      "sha256": "568bead908d97169d43891870a3a259626c3b3c2d672c9594e1eeb9942811794"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_107_basecolor_warm.JPEG",
+      "bytes": 165253,
+      "sha256": "e9241f99881be2b0ff1a0b62d4eeca9d69032f5b8d6333f82f6781814f72eabb"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_116_basecolor.JPEG",
+      "bytes": 1029,
+      "sha256": "a5a3fce3b7fd90d98f5cc4f7673fb5bc0f04c597955adfff74921b4fd5a707a1"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_118_basecolor.JPEG",
+      "bytes": 1006,
+      "sha256": "0049a64a6aad400f690ef747fcf30a34f9e91ddbc707a7c9108662c61f1a85ed"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_119_basecolor.JPEG",
+      "bytes": 1045,
+      "sha256": "35927fcd85c5285112a9248f9c1ed3347cab1946fb1581c7af4900c9e1e12f92"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_120_basecolor.JPEG",
+      "bytes": 896,
+      "sha256": "5470f9e33608717e144326989cccea2cc68e85826d7440a5698cacecae4f6961"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_125_basecolor_warm.JPEG",
+      "bytes": 72708,
+      "sha256": "e22a75c6dc22d9e3ed69b64e5fcb85d3b1798822a1808b762f63dbafebd0eeb1"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_139_basecolor.JPEG",
+      "bytes": 1079,
+      "sha256": "e0a2f8320ccc4f3237daa26ba611af0949b285b18d8aaed6594fe980d7de625e"
+    },
+    {
+      "path": "assets/room7052/textures/wardrobesliding3dmodel_tripo_part_78_basecolor.JPEG",
+      "bytes": 54305,
+      "sha256": "6ff1d796d43d133aa04de395a10ba302ee0eea859c4ffe1db4535f916b8899b9"
+    },
+    {
+      "path": "assets/room7052/textures/wood_floor_nor_gl_longplank_2k.jpg",
+      "bytes": 771154,
+      "sha256": "5156a55377e47e54b0d1fde8256a2032ecc6847d3fcaeb6397cf4a6becdcfbfc"
+    },
+    {
+      "path": "assets/room7052/textures/wood_floor_Rough_satin_longplank_2k.jpg",
+      "bytes": 954966,
+      "sha256": "5e04528dc4971ae1519fe7fa3928a2e863ef9ac0655f210ce8b1a23840d3ab87"
+    },
+    {
+      "path": "assets/room7052/textures/wood_floor_video_tone_2k.jpg",
+      "bytes": 1505734,
+      "sha256": "2c2444c920caa79f5e1bbbde3e7f652547a1b21091ab2532be6aa03869595eb8"
+    },
+    {
+      "path": "assets/room7052/textures/woodenbench3dmodel_basecolor.JPEG",
+      "bytes": 3402387,
+      "sha256": "194826b28223aee7631f77994dd8513565f5aa9b29f39eb9be6073f4c44a3dee"
+    },
+    {
+      "path": "assets/so101_cola/bottom.jpg",
+      "bytes": 2723770,
+      "sha256": "c933544fe3724822087a5d04e4e16368388f33ec47c4e3fccc35ab96a2a7cd2b"
+    },
+    {
+      "path": "assets/so101_cola/cola_can.usda",
+      "bytes": 1776467,
+      "sha256": "d07de68a57c9b2c7ff15782293ea5d3fe5aeef4d74fca2fd2382071685131e23"
+    },
+    {
+      "path": "assets/so101_cola/label_atlas.png",
+      "bytes": 8987581,
+      "sha256": "02e8f588a3346eb9da9a81ae2f653deeecf8177ca0c52f517e8b79fcb347953a"
+    },
+    {
+      "path": "assets/so101_cola/top.jpg",
+      "bytes": 2523636,
+      "sha256": "691251bac10ee85f3404fdfb11dc76a7bd1d1bc1e9439592e9e0271be358d1bc"
+    }
+  ]
+}
